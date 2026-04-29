@@ -17,5 +17,10 @@ namespace VideoGameManager.Pages.Games
         {
             Games = _service.GetAll();
         }
+        public IActionResult OnPostDelete(int id)
+        {
+            _service.Delete(id);
+            return RedirectToPage();
+        }
     }
 }
