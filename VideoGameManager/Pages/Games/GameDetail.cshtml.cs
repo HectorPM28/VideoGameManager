@@ -13,6 +13,7 @@ namespace VideoGameManager.Pages.Games
         {
             _service = service;
         }
+
         public Game Game { get; set; }
         public void OnGet(int id)
         {
