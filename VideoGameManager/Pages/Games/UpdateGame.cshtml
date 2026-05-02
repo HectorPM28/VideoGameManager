@@ -1,0 +1,21 @@
+﻿@page
+@model VideoGameManager.Pages.Games.UpdateGameModel
+@{
+}
+<h1>Change game info</h1>
+<form method="post">
+	<input type="hidden" asp-for="NewGame.Id" />
+	<label>Title:</label>
+	<input type="text" asp-for="NewGame.Title" /><br /><br />
+	<label>Genre:</label>
+	<input type="text" asp-for="NewGame.Genre" /><br /><br />
+	<label>Year:</label>
+	<input type="text" asp-for="NewGame.Year" /><br /><br />
+	<label>Score:</label>
+	<input type="text" asp-for="NewGame.Score" /><br /><br />
+	<label>Description:</label>
+	<input type="text" asp-for="NewGame.Description" /><br /><br />
+	<button type="submit" asp-page-handler="Update" class="btn btn-success">
+		Update Game
+	</button>
+</form>

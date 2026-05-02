@@ -1,0 +1,32 @@
+﻿@page
+@model VideoGameManager.Pages.Games.IndexModel
+@{
+}
+<h1>Games</h1>
+<table>
+	<thead>
+		<tr>
+			<th>Id</th>
+			<th>Name</th>
+			<th>Details</th>
+			<th>Edit</th>
+			<th>Delete</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var game in Model.Games)
+		{
+			<tr>
+				<td>@game.Id</td>
+				<td>@game.Title</td>
+				<td><a asp-page="/Games/GameDetail" asp-route-id="@game.Id" class="btn btn-info">Details</a></td>
+				<td><a asp-page="/Games/UpdateGame" asp-route-id="@game.Id" class="btn btn-info">Edit</a></td>
+				<td>
+					<form method="post" asp-page-handler="Delete" asp-route-id="@game.Id">
+						<button type="submit" class="btn btn-info">Delete</button>
+					</form>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
