@@ -1,26 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\isard\\Desktop\\VideoGameManager\\VideoGameManager\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\VideoGameManager\\VideoGameManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CAC378B3-E587-25FE-4D04-F3F78F6AB66D}|VideoGameManager.csproj|c:\\users\\isard\\desktop\\videogamemanager\\videogamemanager\\pages\\games\\updategame.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CAC378B3-E587-25FE-4D04-F3F78F6AB66D}|VideoGameManager.csproj|solutionrelative:pages\\games\\updategame.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAC378B3-E587-25FE-4D04-F3F78F6AB66D}|VideoGameManager.csproj|c:\\users\\isard\\desktop\\videogamemanager\\videogamemanager\\pages\\games\\updategame.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAC378B3-E587-25FE-4D04-F3F78F6AB66D}|VideoGameManager.csproj|solutionrelative:pages\\games\\updategame.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAC378B3-E587-25FE-4D04-F3F78F6AB66D}|VideoGameManager.csproj|c:\\users\\isard\\desktop\\videogamemanager\\videogamemanager\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CAC378B3-E587-25FE-4D04-F3F78F6AB66D}|VideoGameManager.csproj|c:\\users\\usuario\\desktop\\videogamemanager\\videogamemanager\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAC378B3-E587-25FE-4D04-F3F78F6AB66D}|VideoGameManager.csproj|solutionrelative:services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAC378B3-E587-25FE-4D04-F3F78F6AB66D}|VideoGameManager.csproj|c:\\users\\isard\\desktop\\videogamemanager\\videogamemanager\\pages\\games\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CAC378B3-E587-25FE-4D04-F3F78F6AB66D}|VideoGameManager.csproj|solutionrelative:pages\\games\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CAC378B3-E587-25FE-4D04-F3F78F6AB66D}|VideoGameManager.csproj|c:\\users\\usuario\\desktop\\videogamemanager\\videogamemanager\\pages\\games\\gamedetail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC378B3-E587-25FE-4D04-F3F78F6AB66D}|VideoGameManager.csproj|solutionrelative:pages\\games\\gamedetail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAC378B3-E587-25FE-4D04-F3F78F6AB66D}|VideoGameManager.csproj|c:\\users\\isard\\desktop\\videogamemanager\\videogamemanager\\pages\\games\\gamedetail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAC378B3-E587-25FE-4D04-F3F78F6AB66D}|VideoGameManager.csproj|solutionrelative:pages\\games\\gamedetail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CAC378B3-E587-25FE-4D04-F3F78F6AB66D}|VideoGameManager.csproj|c:\\users\\usuario\\desktop\\videogamemanager\\videogamemanager\\wwwroot\\data\\games.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CAC378B3-E587-25FE-4D04-F3F78F6AB66D}|VideoGameManager.csproj|solutionrelative:wwwroot\\data\\games.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\isard\\Desktop\\VideoGameManager\\VideoGameManager\\Pages\\Games\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Games\\Index.cshtml",
-              "ToolTip": "C:\\Users\\isard\\Desktop\\VideoGameManager\\VideoGameManager\\Pages\\Games\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Games\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-30T14:49:10.315Z"
+              "DocumentIndex": 2,
+              "Title": "Games.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VideoGameManager\\VideoGameManager\\wwwroot\\data\\Games.json",
+              "RelativeDocumentMoniker": "wwwroot\\data\\Games.json",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VideoGameManager\\VideoGameManager\\wwwroot\\data\\Games.json",
+              "RelativeToolTip": "wwwroot\\data\\Games.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-02T15:25:59.676Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UpdateGame.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\isard\\Desktop\\VideoGameManager\\VideoGameManager\\Pages\\Games\\UpdateGame.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Games\\UpdateGame.cshtml.cs",
-              "ToolTip": "C:\\Users\\isard\\Desktop\\VideoGameManager\\VideoGameManager\\Pages\\Games\\UpdateGame.cshtml.cs",
-              "RelativeToolTip": "Pages\\Games\\UpdateGame.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Title": "GameDetail.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VideoGameManager\\VideoGameManager\\Pages\\Games\\GameDetail.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Games\\GameDetail.cshtml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VideoGameManager\\VideoGameManager\\Pages\\Games\\GameDetail.cshtml.cs",
+              "RelativeToolTip": "Pages\\Games\\GameDetail.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T14:31:50.518Z",
+              "WhenOpened": "2026-04-29T14:06:12.274Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UpdateGame.cshtml",
-              "DocumentMoniker": "C:\\Users\\isard\\Desktop\\VideoGameManager\\VideoGameManager\\Pages\\Games\\UpdateGame.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Games\\UpdateGame.cshtml",
-              "ToolTip": "C:\\Users\\isard\\Desktop\\VideoGameManager\\VideoGameManager\\Pages\\Games\\UpdateGame.cshtml*",
-              "RelativeToolTip": "Pages\\Games\\UpdateGame.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-30T14:29:51.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GameDetail.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\isard\\Desktop\\VideoGameManager\\VideoGameManager\\Pages\\Games\\GameDetail.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Games\\GameDetail.cshtml.cs",
-              "ToolTip": "C:\\Users\\isard\\Desktop\\VideoGameManager\\VideoGameManager\\Pages\\Games\\GameDetail.cshtml.cs",
-              "RelativeToolTip": "Pages\\Games\\GameDetail.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T14:06:12.274Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "GameService.cs",
-              "DocumentMoniker": "C:\\Users\\isard\\Desktop\\VideoGameManager\\VideoGameManager\\Services\\GameService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VideoGameManager\\VideoGameManager\\Services\\GameService.cs",
               "RelativeDocumentMoniker": "Services\\GameService.cs",
-              "ToolTip": "C:\\Users\\isard\\Desktop\\VideoGameManager\\VideoGameManager\\Services\\GameService.cs",
-              "RelativeToolTip": "Services\\GameService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBYAAAAIAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VideoGameManager\\VideoGameManager\\Services\\GameService.cs*",
+              "RelativeToolTip": "Services\\GameService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-28T17:37:42.594Z",
               "EditorCaption": ""
