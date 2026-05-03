@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\VideoGameManager\\VideoGameManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CAC378B3-E587-25FE-4D04-F3F78F6AB66D}|VideoGameManager.csproj|c:\\users\\usuario\\desktop\\videogamemanager\\videogamemanager\\pages\\games\\creategame.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CAC378B3-E587-25FE-4D04-F3F78F6AB66D}|VideoGameManager.csproj|solutionrelative:pages\\games\\creategame.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CAC378B3-E587-25FE-4D04-F3F78F6AB66D}|VideoGameManager.csproj|c:\\users\\usuario\\desktop\\videogamemanager\\videogamemanager\\pages\\files.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC378B3-E587-25FE-4D04-F3F78F6AB66D}|VideoGameManager.csproj|solutionrelative:pages\\files.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAC378B3-E587-25FE-4D04-F3F78F6AB66D}|VideoGameManager.csproj|c:\\users\\usuario\\desktop\\videogamemanager\\videogamemanager\\pages\\games\\updategame.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAC378B3-E587-25FE-4D04-F3F78F6AB66D}|VideoGameManager.csproj|solutionrelative:pages\\games\\updategame.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CAC378B3-E587-25FE-4D04-F3F78F6AB66D}|VideoGameManager.csproj|c:\\users\\usuario\\desktop\\videogamemanager\\videogamemanager\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC378B3-E587-25FE-4D04-F3F78F6AB66D}|VideoGameManager.csproj|solutionrelative:services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAC378B3-E587-25FE-4D04-F3F78F6AB66D}|VideoGameManager.csproj|c:\\users\\usuario\\desktop\\videogamemanager\\videogamemanager\\pages\\games\\creategame.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAC378B3-E587-25FE-4D04-F3F78F6AB66D}|VideoGameManager.csproj|solutionrelative:pages\\games\\creategame.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CAC378B3-E587-25FE-4D04-F3F78F6AB66D}|VideoGameManager.csproj|c:\\users\\usuario\\desktop\\videogamemanager\\videogamemanager\\services\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC378B3-E587-25FE-4D04-F3F78F6AB66D}|VideoGameManager.csproj|solutionrelative:services\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,41 +26,41 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UpdateGame.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VideoGameManager\\VideoGameManager\\Pages\\Games\\UpdateGame.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Games\\UpdateGame.cshtml.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VideoGameManager\\VideoGameManager\\Pages\\Games\\UpdateGame.cshtml.cs",
-              "RelativeToolTip": "Pages\\Games\\UpdateGame.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "GameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VideoGameManager\\VideoGameManager\\Services\\GameRepository.cs",
+              "RelativeDocumentMoniker": "Services\\GameRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VideoGameManager\\VideoGameManager\\Services\\GameRepository.cs",
+              "RelativeToolTip": "Services\\GameRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T13:38:12.441Z",
+              "WhenOpened": "2026-05-03T16:24:15.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreateGame.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VideoGameManager\\VideoGameManager\\Pages\\Games\\CreateGame.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Games\\CreateGame.cshtml.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VideoGameManager\\VideoGameManager\\Pages\\Games\\CreateGame.cshtml.cs",
-              "RelativeToolTip": "Pages\\Games\\CreateGame.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VideoGameManager\\VideoGameManager\\Services\\GameService.cs",
+              "RelativeDocumentMoniker": "Services\\GameService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VideoGameManager\\VideoGameManager\\Services\\GameService.cs",
+              "RelativeToolTip": "Services\\GameService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T13:37:34.098Z",
+              "WhenOpened": "2026-05-03T15:13:00.88Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CreateGame.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VideoGameManager\\VideoGameManager\\Pages\\Games\\CreateGame.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Games\\CreateGame.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VideoGameManager\\VideoGameManager\\Pages\\Games\\CreateGame.cshtml",
-              "RelativeToolTip": "Pages\\Games\\CreateGame.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-03T13:26:57.146Z",
+              "Title": "Files.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VideoGameManager\\VideoGameManager\\Pages\\Files.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Files.cshtml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VideoGameManager\\VideoGameManager\\Pages\\Files.cshtml.cs",
+              "RelativeToolTip": "Pages\\Files.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwCQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T14:35:51.851Z",
               "EditorCaption": ""
             }
           ]

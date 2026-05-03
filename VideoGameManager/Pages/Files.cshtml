@@ -1,0 +1,36 @@
+﻿@page
+@model VideoGameManager.Pages.FilesModel
+@{
+}
+<h1>Export Data</h1>
+
+<form method="post" asp-page-handler="Export">
+    <button type="submit" class="btn btn-success">
+        <i class="bi bi-download"></i> Export games.csv
+    </button>
+</form>
+
+<h3>Import CSV</h3>
+    
+<form method="post" asp-page-handler="Import" enctype="multipart/form-data">
+        <label class="form-label">Select .csv</label>
+        <input type="file" name="archiveCsv" class="form-control" accept=".csv" />
+    <button type="submit" class="btn btn-primary">
+        Upload and import
+    </button>
+</form>
+
+<h3>Ranking of games in xml</h3>
+    
+<form method="post" asp-page-handler="DownloadRanking">
+    <button type="submit" class="btn btn-primary">
+        Create ranking.xml
+    </button>
+</form>
+<h3>JSON</h3>
+<form method="post" asp-page-handler="ExportJson">
+    <button type="submit" class="btn btn-primary">Export JSON</button>
+</form>
+<form method="post" asp-page-handler="ImportJson">
+    <button type="submit" class="btn btn-primary">Import JSON</button>
+</form>

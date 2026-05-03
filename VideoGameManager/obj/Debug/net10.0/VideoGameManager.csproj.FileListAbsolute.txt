@@ -196,4 +196,7 @@ C:\Users\Usuario\Desktop\VideoGameManager\VideoGameManager\obj\Debug\net10.0\ref
 C:\Users\Usuario\Desktop\VideoGameManager\VideoGameManager\obj\Debug\net10.0\VideoGameManager.pdb
 C:\Users\Usuario\Desktop\VideoGameManager\VideoGameManager\obj\Debug\net10.0\VideoGameManager.genruntimeconfig.cache
 C:\Users\Usuario\Desktop\VideoGameManager\VideoGameManager\obj\Debug\net10.0\ref\VideoGameManager.dll
-C:\Users\Usuario\Desktop\VideoGameManager\VideoGameManager\obj\Debug\net10.0\compressed\5j6o2wnir0-{0}-u202r9gun9-u202r9gun9.gz
+C:\Users\Usuario\Desktop\VideoGameManager\VideoGameManager\obj\Debug\net10.0\compressed\k9h0lwzyih-{0}-5ipweew5fc-5ipweew5fc.gz
+C:\Users\Usuario\Desktop\VideoGameManager\VideoGameManager\obj\Debug\net10.0\compressed\5hssg2ae9g-{0}-q5u4oa7gg8-q5u4oa7gg8.gz
+C:\Users\Usuario\Desktop\VideoGameManager\VideoGameManager\obj\Debug\net10.0\compressed\5j6o2wnir0-{0}-pajqyp0lfr-pajqyp0lfr.gz
+C:\Users\Usuario\Desktop\VideoGameManager\VideoGameManager\obj\Debug\net10.0\compressed\aerkc0aw2h-{0}-r1fvx1noyx-r1fvx1noyx.gz

@@ -6,6 +6,9 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();
 
 builder.Services.AddSingleton<GameService>();
+builder.Services.AddSingleton<GameExporter>();
+builder.Services.AddSingleton<GameRanking>();
+builder.Services.AddSingleton<GameRepository>();
 
 var app = builder.Build();
 
