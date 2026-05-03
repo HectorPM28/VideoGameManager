@@ -1,0 +1,30 @@
+﻿@page
+@model VideoGameManager.Pages.Games.CreateGameModel
+@{
+}
+<h1>Create Gameo</h1>
+<form method="post">
+    <label>Title:</label>
+    <input type="text" asp-for="GameName" />
+    <span asp-validation-for="GameName" class="text-danger"></span><br /><br />
+
+    <label>Genre:</label>
+    <input type="text" asp-for="GameGenre" />
+    <span asp-validation-for="GameGenre" class="text-danger"></span><br /><br />
+
+    <label>Year:</label>
+    <input type="text" asp-for="GameYear" />
+    <span asp-validation-for="GameYear" class="text-danger"></span><br /><br />
+
+    <label>Score:</label>
+    <input type="text" asp-for="GameScore" />
+    <span asp-validation-for="GameScore" class="text-danger"></span><br /><br />
+
+    <label>Description:</label>
+    <input type="text" asp-for="GameDescription" />
+    <span asp-validation-for="GameDescription" class="text-danger"></span><br /><br />
+
+    <button type="submit" asp-page-handler="Add" class="btn btn-success">
+        Add Game
+    </button>
+</form>
