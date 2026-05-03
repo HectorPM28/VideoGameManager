@@ -22,6 +22,10 @@ namespace VideoGameManager.Pages.Games
         }
         public IActionResult OnPostUpdate()
         {
+            if (!ModelState.IsValid)
+            {
+                return Page();
+            }
 
             _service.Update(NewGame);
 

@@ -22,5 +22,13 @@
     "Year": 2017,
     "Score": 9,
     "Description": "16 students in a killing game"
+  },
+  {
+    "Id": 4,
+    "Title": "Celeste",
+    "Genre": "Platform",
+    "Year": 2018,
+    "Score": 8,
+    "Description": "Girl jumps to get strawberries"
   }
 ]

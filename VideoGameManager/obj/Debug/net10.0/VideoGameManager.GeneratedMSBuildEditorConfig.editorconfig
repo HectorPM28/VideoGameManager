@@ -26,6 +26,10 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Usuario/Desktop/VideoGameManager/VideoGameManager/Pages/Games/CreateGame.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZXNcQ3JlYXRlR2FtZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Usuario/Desktop/VideoGameManager/VideoGameManager/Pages/Games/GameDetail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZXNcR2FtZURldGFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

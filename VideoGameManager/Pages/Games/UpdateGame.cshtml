@@ -4,18 +4,29 @@
 }
 <h1>Change game info</h1>
 <form method="post">
-	<input type="hidden" asp-for="NewGame.Id" />
-	<label>Title:</label>
-	<input type="text" asp-for="NewGame.Title" /><br /><br />
-	<label>Genre:</label>
-	<input type="text" asp-for="NewGame.Genre" /><br /><br />
-	<label>Year:</label>
-	<input type="text" asp-for="NewGame.Year" /><br /><br />
-	<label>Score:</label>
-	<input type="text" asp-for="NewGame.Score" /><br /><br />
-	<label>Description:</label>
-	<input type="text" asp-for="NewGame.Description" /><br /><br />
-	<button type="submit" asp-page-handler="Update" class="btn btn-success">
-		Update Game
-	</button>
+    <input type="hidden" asp-for="NewGame.Id" />
+
+    <label>Title:</label>
+    <input type="text" asp-for="NewGame.Title" />
+    <span asp-validation-for="NewGame.Title" class="text-danger"></span><br /><br />
+
+    <label>Genre:</label>
+    <input type="text" asp-for="NewGame.Genre" />
+    <span asp-validation-for="NewGame.Genre" class="text-danger"></span><br /><br />
+
+    <label>Year:</label>
+    <input type="text" asp-for="NewGame.Year" />
+    <span asp-validation-for="NewGame.Year" class="text-danger"></span><br /><br />
+
+    <label>Score:</label>
+    <input type="text" asp-for="NewGame.Score" />
+    <span asp-validation-for="NewGame.Score" class="text-danger"></span><br /><br />
+
+    <label>Description:</label>
+    <input type="text" asp-for="NewGame.Description" />
+    <span asp-validation-for="NewGame.Description" class="text-danger"></span><br /><br />
+
+    <button type="submit" asp-page-handler="Add" class="btn btn-success">
+        Add Game
+    </button>
 </form>
