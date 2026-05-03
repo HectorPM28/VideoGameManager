@@ -1,4 +1,6 @@
 wwwroot\css\site.css
+wwwroot\data\GameLog.json
+wwwroot\data\GameLog.txt
 wwwroot\data\Games.json
 wwwroot\favicon.ico
 wwwroot\js\site.js
@@ -124,4 +126,6 @@ C:\Users\Usuario\Desktop\VideoGameManager\VideoGameManager\wwwroot\lib\bootstrap
 C:\Users\Usuario\Desktop\VideoGameManager\VideoGameManager\wwwroot\js\site.js
 C:\Users\Usuario\Desktop\VideoGameManager\VideoGameManager\wwwroot\favicon.ico
 C:\Users\Usuario\Desktop\VideoGameManager\VideoGameManager\wwwroot\css\site.css
+C:\Users\Usuario\Desktop\VideoGameManager\VideoGameManager\wwwroot\data\GameLog.json
 C:\Users\Usuario\Desktop\VideoGameManager\VideoGameManager\wwwroot\data\Games.json
+C:\Users\Usuario\Desktop\VideoGameManager\VideoGameManager\wwwroot\data\GameLog.txt

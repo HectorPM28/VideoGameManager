@@ -1,4 +1,5 @@
 ﻿using System.Text.Json;
+using VideoGameManager.Data;
 using VideoGameManager.Models;
 
 namespace VideoGameManager.Services
@@ -42,6 +43,7 @@ namespace VideoGameManager.Services
             game.Id = nextId;
 
             games.Add(game);
+            GameLog.InsertInfoInLog("Addded", game.Title);
             SaveGames(games);
         }
         public void Update(Game game)
@@ -51,13 +53,16 @@ namespace VideoGameManager.Services
             if (index >= 0)
             {
                 games[index] = game;
+                GameLog.InsertInfoInLog("Updated", game.Title);
                 SaveGames(games);
             }
         }
         public void Delete(int id)
         {
             var games = GetAll();
+            var game = games.FirstOrDefault(g => g.Id == id);
             games.RemoveAll(g => g.Id == id);
+            GameLog.InsertInfoInLog("deleted", game.Title);
             SaveGames(games);
         }
     }
