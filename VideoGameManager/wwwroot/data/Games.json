@@ -1,34 +1,10 @@
 [
   {
     "Id": 1,
-    "Title": "Danganronpa",
-    "Genre": "Visual Novel",
-    "Year": 2010,
-    "Score": 10,
-    "Description": "16 students in a killing game"
-  },
-  {
-    "Id": 2,
-    "Title": "Danganronpa 2",
-    "Genre": "Visual Novel",
-    "Year": 2012,
-    "Score": 9,
-    "Description": "16 students in a killing game"
-  },
-  {
-    "Id": 3,
-    "Title": "Danganronpa v3",
-    "Genre": "Visual Novel",
-    "Year": 2017,
-    "Score": 10,
-    "Description": "16 students in a killing game"
-  },
-  {
-    "Id": 4,
-    "Title": "Celeste",
-    "Genre": "Platform",
-    "Year": 2018,
-    "Score": 8,
-    "Description": "Girl jumps to get strawberries"
+    "Title": "Marvel Rivals",
+    "Genre": "shooter",
+    "Year": 2024,
+    "Score": 6,
+    "Description": "a"
   }
 ]
